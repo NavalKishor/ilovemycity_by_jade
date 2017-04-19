@@ -1,0 +1,16 @@
+{
+  "name": "ilovemycity-jade",
+  "version": "1.0.0",
+  "description": "I Love My City project with jade",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.15.2",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "start: node app.js"
+  },
+  "author": "naval_kishor_jha",
+  "license": "ISC"
+}
